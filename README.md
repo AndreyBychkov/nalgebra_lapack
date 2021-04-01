@@ -2,7 +2,7 @@
 
 Rust library for linear algebra using nalgebra and LAPACK.
 
-Copy of [nalgebra-lapack](https://github.com/dimforge/nalgebra/tree/dev/nalgebra-lapack) with dependencies path. 
+Copy of [nalgebra-lapack](https://github.com/dimforge/nalgebra/tree/dev/nalgebra-lapack) with dependencies patch. 
 
 ## Documentation
 
